@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ipmG17/static/css/main.073c9b0a.css",
+    "main.js": "/ipmG17/static/js/main.58207398.js",
+    "static/js/787.d6cb1aba.chunk.js": "/ipmG17/static/js/787.d6cb1aba.chunk.js",
+    "static/media/logo.svg": "/ipmG17/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ipmG17/index.html",
+    "main.073c9b0a.css.map": "/ipmG17/static/css/main.073c9b0a.css.map",
+    "main.58207398.js.map": "/ipmG17/static/js/main.58207398.js.map",
+    "787.d6cb1aba.chunk.js.map": "/ipmG17/static/js/787.d6cb1aba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.58207398.js"
+  ]
+}
