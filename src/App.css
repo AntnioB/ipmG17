@@ -1,3 +1,12 @@
+@font-face {
+  font-family: 'bd_megalona_demo_personalRgIt';
+  src: url('fonts/bdmegalonademopersonaluseonly-regularitalic-webfont.woff2') format('woff2'),
+       url('fonts/bdmegalonademopersonaluseonly-regularitalic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
 .App {
   text-align: center;
 }
@@ -14,7 +23,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #ffffff;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -24,8 +33,16 @@
   color: white;
 }
 
-.App-link {
+.App-link:link {
   color: #61dafb;
+}
+
+.App-link:visited {
+  color: black;
+}
+
+.App-link:hover {
+  color: #ebd406;;
 }
 
 @keyframes App-logo-spin {
@@ -35,4 +52,35 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  opacity: 1;
+  background: black;
+  color: white;
+  font-family: 'bd_megalona_demo_personalRgIt';
+  font-weight: 300;
+}
+
+.navbar__title {
+  margin-right: auto;
+  font-size: 150%;
+  padding: 12px 16px;
+}
+
+.navbar__item {
+  padding: 16px 16px;
+  vertical-align: middle;
+}
+
+.navbar__item:hover{
+  color: #ebd406;
+}
+
+.footbar__main{
+  margin-right: auto;
+  font-size: 75%;
+  padding: 12px 16px;
 }
