@@ -9,9 +9,30 @@ function App() {
     <div className="App">
       <a><Navbar /></a>
       <header className="App-header">
+        <h1></h1>
         <p>
           <Link name = 'Stage 1 Report' link = {stage1Report}/>
         </p>
+        <h1>Some content</h1>
+        <h1>Some content</h1>
+        <h1>Some content</h1>
+        <h1>Some content</h1>
+        <h1>Some content</h1>
+        <h1>Some content</h1>
+        <h1>Some content</h1>
+        <h1>Some content</h1>
+        <h1>Some content</h1>
+        <h1>Some content</h1>
+        <h1>Some content</h1>
+        <h1>Some content</h1>
+        <h1>Some content</h1>
+        <h1>Some content</h1>
+        <h1>Some content</h1>
+        <h1>Some content</h1>
+        <h1>Some content</h1>
+        <h1>Some content</h1>
+        <h1>Some content</h1>
+        <h1>Some content</h1>
       </header>
       <footer><Footbar /></footer>
     </div>

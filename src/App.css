@@ -73,6 +73,9 @@ body::-webkit-scrollbar{
   color: white;
   font-family: 'bd_megalona_demo_personalRgIt';
   font-weight: 300;
+  height: 60px;
+  width: 100%;
+  position: fixed;
 }
 
 .navbar__title {
@@ -88,6 +91,16 @@ body::-webkit-scrollbar{
 
 .navbar__item:hover{
   color: #ebd406;
+}
+
+.footbar {
+  display: flex;
+  align-items: center;
+  opacity: 1;
+  background: black;
+  color: white;
+  font-family: 'bd_megalona_demo_personalRgIt';
+  font-weight: 300;
 }
 
 .footbar__main{
