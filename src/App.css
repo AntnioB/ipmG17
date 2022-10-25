@@ -7,28 +7,24 @@
 
 }
 
-.App {
-  text-align: left;
-  overflow: hidden;
+body{
+  margin: 0%;
+  padding: 0%;
 }
 
 body::-webkit-scrollbar{
   display: none;
 }
 
-.App::-webkit-scrollbar{
-  display: none;
+.App {
+  height: 100vh;
+  width: 100vw;
+  background-color:#081F37;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
 }
 
 .App-header {
@@ -54,15 +50,6 @@ body::-webkit-scrollbar{
 
 .App-link:hover {
   color: #ebd406;;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }
 
 .navbar {
