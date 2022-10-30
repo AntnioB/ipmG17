@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ipmG17/static/css/main.a8345c06.css",
-    "main.js": "/ipmG17/static/js/main.9bdf37b4.js",
+    "main.css": "/ipmG17/static/css/main.3c0ecee9.css",
+    "main.js": "/ipmG17/static/js/main.406669e9.js",
     "static/js/787.d6cb1aba.chunk.js": "/ipmG17/static/js/787.d6cb1aba.chunk.js",
-    "static/media/Stage1-entrega.pdf": "/ipmG17/static/media/Stage1-entrega.566658244ae8a6469eee.pdf",
-    "static/media/poolFloor.jpg": "/ipmG17/static/media/poolFloor.fd91d33f99c5acbfe900.jpg",
-    "static/media/bdmegalonademopersonaluseonly-regularitalic-webfont.woff": "/ipmG17/static/media/bdmegalonademopersonaluseonly-regularitalic-webfont.f3cf42c4c357993236d2.woff",
-    "static/media/bdmegalonademopersonaluseonly-regularitalic-webfont.woff2": "/ipmG17/static/media/bdmegalonademopersonaluseonly-regularitalic-webfont.8f8fc4b1b6c447a77771.woff2",
+    "static/media/Stage3.pdf": "/ipmG17/static/media/Stage3.23d4f655d250a2eee4eb.pdf",
+    "static/media/GoodandBadUI.pdf": "/ipmG17/static/media/GoodandBadUI.523ede6d909a85bba1e7.pdf",
+    "static/media/Stage2.pdf": "/ipmG17/static/media/Stage2.e4b2993094d7808a676c.pdf",
+    "static/media/Stage1.pdf": "/ipmG17/static/media/Stage1.566658244ae8a6469eee.pdf",
     "index.html": "/ipmG17/index.html",
-    "main.a8345c06.css.map": "/ipmG17/static/css/main.a8345c06.css.map",
-    "main.9bdf37b4.js.map": "/ipmG17/static/js/main.9bdf37b4.js.map",
+    "main.3c0ecee9.css.map": "/ipmG17/static/css/main.3c0ecee9.css.map",
+    "main.406669e9.js.map": "/ipmG17/static/js/main.406669e9.js.map",
     "787.d6cb1aba.chunk.js.map": "/ipmG17/static/js/787.d6cb1aba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8345c06.css",
-    "static/js/main.9bdf37b4.js"
+    "static/css/main.3c0ecee9.css",
+    "static/js/main.406669e9.js"
   ]
 }
