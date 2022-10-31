@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/ipmG17/static/css/main.3c0ecee9.css",
-    "main.js": "/ipmG17/static/js/main.406669e9.js",
+    "main.css": "/ipmG17/static/css/main.5eff5393.css",
+    "main.js": "/ipmG17/static/js/main.f188550b.js",
     "static/js/787.d6cb1aba.chunk.js": "/ipmG17/static/js/787.d6cb1aba.chunk.js",
     "static/media/Stage3.pdf": "/ipmG17/static/media/Stage3.23d4f655d250a2eee4eb.pdf",
     "static/media/GoodandBadUI.pdf": "/ipmG17/static/media/GoodandBadUI.523ede6d909a85bba1e7.pdf",
+    "static/media/GoodBadDesign_DanielCAvalheiro.pdf": "/ipmG17/static/media/GoodBadDesign_DanielCAvalheiro.c80230fc35b9bffed313.pdf",
     "static/media/Stage2.pdf": "/ipmG17/static/media/Stage2.e4b2993094d7808a676c.pdf",
     "static/media/Stage1.pdf": "/ipmG17/static/media/Stage1.566658244ae8a6469eee.pdf",
     "index.html": "/ipmG17/index.html",
-    "main.3c0ecee9.css.map": "/ipmG17/static/css/main.3c0ecee9.css.map",
-    "main.406669e9.js.map": "/ipmG17/static/js/main.406669e9.js.map",
+    "main.5eff5393.css.map": "/ipmG17/static/css/main.5eff5393.css.map",
+    "main.f188550b.js.map": "/ipmG17/static/js/main.f188550b.js.map",
     "787.d6cb1aba.chunk.js.map": "/ipmG17/static/js/787.d6cb1aba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c0ecee9.css",
-    "static/js/main.406669e9.js"
+    "static/css/main.5eff5393.css",
+    "static/js/main.f188550b.js"
   ]
 }
