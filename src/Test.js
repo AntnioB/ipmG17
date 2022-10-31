@@ -4,6 +4,7 @@ import stage1 from './pdfs/Stage1.pdf';
 import stage2 from './pdfs/Stage2.pdf';
 import stage3 from './pdfs/Stage3.pdf';
 import a1 from './pdfs/GoodandBadUI.pdf';
+import a2 from './pdfs/GoodBadDesign_DanielCAvalheiro.pdf'
 
 function Test() {
   return(
@@ -40,7 +41,8 @@ class Menu extends React.Component{
   render(){
     return(<div id="menu">
     <div id="menu-items">
-      <Link href={a1} name="Assignements" onMouseOver={() => this.handleHover('0% -25%','center 20%')}></Link>
+      <Link href={a1} name="Good and Bad Design - Antonio" onMouseOver={() => this.handleHover('0% -0%','center 0%')}></Link>
+      <Link href={a2} name="Good and Bad Design - Daniel" onMouseOver={() => this.handleHover('0% -25%','center 20%')}></Link>
       <Link href={stage1} name="Stage 1 Report" onMouseOver={() => this.handleHover('0% -50%', 'center 40%')}></Link>
       <Link href={stage2} name="Stage 2 Report" onMouseOver={() => this.handleHover('0% -75%', 'center 60%')}></Link>
       <Link href={stage3} name="Stage 3 Report" onMouseOver={() => this.handleHover('0% -100%', 'center 80%')}></Link>
