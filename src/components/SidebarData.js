@@ -8,12 +8,12 @@ export const SidebarData =[
     {
         title: "Home",
         icon: <HomeIcon/>,
-        link:"/home"
+        link:"/ipmG17"
     },
     {
-        title: "Assignements",
+        title: "Assignments",
         icon: <AssignmentIcon/>,
-        link:"/assignements"
+        link:"/assignments"
     },
     {
         title: "Project Stages",

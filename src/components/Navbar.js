@@ -1,21 +1,23 @@
-import React, { Component } from 'react';
+import React from "react";
+import { BrowserRouter, Route, Link } from "react-router-dom";
 
+import stage1Report from '../pdfs/Stage1.pdf';
+import stage2Report from '../pdfs/Stage2.pdf'
+import stage3Report from '../pdfs/Stage3.pdf'
 
-class Navbar extends Component {
-    constructor(props){
-        super(props);
-    }
-    render() { 
-        return (
-            <header className='navbar'>
-                <div className='navbar__title navbar__item'>IPM G17</div>
-                <div className='navbar__item'>Home</div>
-                <div className='navbar__item'>About</div>
-                <div className='navbar__item'>Assignents</div>
-                <div className='navbar__item'>Project</div>          
-            </header>
-        );
-    }
+function Navbar() {
+  return (
+    <nav>
+      <ul>
+        <li>
+          <Link to="/ipmG17">Home</Link>
+        </li>
+        <li>
+            <Link target={stage1Report}> Stage 1 Report</Link>
+        </li>
+      </ul>
+    </nav>
+  );
 }
- 
-export default Navbar;
+
+export default Navbar;
