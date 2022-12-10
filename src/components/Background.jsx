@@ -18,7 +18,6 @@ class Background extends React.Component {
     render() {
       return (
         <div>
-          <div id="menu-background-pattern" style={{ backgroundPosition: this.state.posBg }}></div>
           <div id="menu-background-image" style={{ backgroundPosition: this.state.posImg }}></div>
         </div>);
     }
