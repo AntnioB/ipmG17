@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ipmG17/static/css/main.e8e37430.css",
-    "main.js": "/ipmG17/static/js/main.43ef44f6.js",
+    "main.css": "/ipmG17/static/css/main.79c9bba0.css",
+    "main.js": "/ipmG17/static/js/main.4f4dc573.js",
     "static/js/787.d6cb1aba.chunk.js": "/ipmG17/static/js/787.d6cb1aba.chunk.js",
     "static/media/Stage3.pdf": "/ipmG17/static/media/Stage3.23d4f655d250a2eee4eb.pdf",
     "static/media/GoodandBadUI.pdf": "/ipmG17/static/media/GoodandBadUI.523ede6d909a85bba1e7.pdf",
@@ -13,16 +13,24 @@
     "static/media/Stage6.pdf": "/ipmG17/static/media/Stage6.7803e1be19bd2c032dd7.pdf",
     "static/media/Stage4.pdf": "/ipmG17/static/media/Stage4.ac199ce278292891ffd1.pdf",
     "static/media/Stage1.pdf": "/ipmG17/static/media/Stage1.566658244ae8a6469eee.pdf",
+    "static/media/HomeScreen.jpg": "/ipmG17/static/media/HomeScreen.b820a7971890a2515b7f.jpg",
+    "static/media/cardScreen.jpg": "/ipmG17/static/media/cardScreen.71b34aca1427399e50ed.jpg",
+    "static/media/LoginScreen.jpg": "/ipmG17/static/media/LoginScreen.d71d4426e6a432fa20db.jpg",
+    "static/media/WelcomeScreen.jpg": "/ipmG17/static/media/WelcomeScreen.61ea91c204545cbfdb40.jpg",
+    "static/media/sketch-home.png": "/ipmG17/static/media/sketch-home.d75fe6d044bca3e1f0bf.png",
+    "static/media/sketch-profile.png": "/ipmG17/static/media/sketch-profile.2b4ebd9ef6706dd5b4c2.png",
+    "static/media/sketch-login.png": "/ipmG17/static/media/sketch-login.64ef11e6c92da095a70d.png",
+    "static/media/sketch-welcome.png": "/ipmG17/static/media/sketch-welcome.0d7febb747d2503d7565.png",
     "static/media/poolFloor.jpg": "/ipmG17/static/media/poolFloor.fd91d33f99c5acbfe900.jpg",
     "static/media/bdmegalonademopersonaluseonly-regularitalic-webfont.woff": "/ipmG17/static/media/bdmegalonademopersonaluseonly-regularitalic-webfont.f3cf42c4c357993236d2.woff",
     "static/media/bdmegalonademopersonaluseonly-regularitalic-webfont.woff2": "/ipmG17/static/media/bdmegalonademopersonaluseonly-regularitalic-webfont.8f8fc4b1b6c447a77771.woff2",
     "index.html": "/ipmG17/index.html",
-    "main.e8e37430.css.map": "/ipmG17/static/css/main.e8e37430.css.map",
-    "main.43ef44f6.js.map": "/ipmG17/static/js/main.43ef44f6.js.map",
+    "main.79c9bba0.css.map": "/ipmG17/static/css/main.79c9bba0.css.map",
+    "main.4f4dc573.js.map": "/ipmG17/static/js/main.4f4dc573.js.map",
     "787.d6cb1aba.chunk.js.map": "/ipmG17/static/js/787.d6cb1aba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8e37430.css",
-    "static/js/main.43ef44f6.js"
+    "static/css/main.79c9bba0.css",
+    "static/js/main.4f4dc573.js"
   ]
 }
